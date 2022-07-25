@@ -1,0 +1,31 @@
+Thank you for contacting HP Service Desk. Have a nice day! You might be receiving a survey shortly to find out the quality of service you received from the HP Service Desk. Please take a few minutes to provide your valuable feedback and let us know how your experience with today's interaction was.
+
+“Is this the first time you are reaching out to us on this issue ?” 
+the next level team will contact you and help you with the issue
+i see that you are facing issue with 
+i see that you need help with
+ok please  give me a minute i will check with my resources
+ok please  give me a minute i will check your account once
+may i know the error message you are getting
+may i know the issue you are facing
+i see that you are contacting for previous ticket status
+How can I help you?
+“Are you there” , “Are you still with me on chat” …
+Is there anything else I can help you with?
+Is there anything else apart from this I can help you with?
+
+please make a note of your case number
+
+With your permission, shall I go ahead and resolve this case? 
+are you available in skype for sharing your screen
+just give me a moment  i will ping you in skype
+
+It has been 2 minutes, we are waiting for your response. Would you still like to continue our chat?
+
+It has been 5 minutes, we have not received any response from your end. We apologize for any inconvenience caused to you. We would go ahead and close this conversation. If you would like to continue getting support on this topic later, please open a new chat session and we would continue helping you. Thankyou for using HP Chat Support.
+
+I see you are entitled for Premier Support through a dedicated phone line which provides with the following benefits: - Two-minute average speed of answerElevated service levels - .mooElevation path to all HP IT Service Providers. Would you still like to continue with this chat? Please note that Premier support is only offered via phone by calling +1-844-292-9325
+
+Windows Rs5 Upgrade Issue
+
+\\g1w8533g.austin.hpicorp.net\myITappsrepair\myITappsRepairtool.msi  

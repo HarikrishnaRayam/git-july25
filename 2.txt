@@ -1,0 +1,12 @@
+Please provide these details
+Impacted user’s email: 
+Phone number: 
+Availability: 
+Time Zone: 
+--------------------------------------------- 
+harikrishna.rayam-ceid@hp.com
+“We are going to be involving the escalation support team within our service desk to ensure this is driven to a resolution. They would reach out to you at the earliest”. 
+---------------------------------------------
+http://autocache.entsvcs.net/
+For Unsolved PC Return issues, send the below to the user. 
+Please send an email to pc.returns.hpi@hp.com with the scenario and sub-scenario that is applicable to you from the table below. Selecting scenario, sub-scenario and providing additional information in the email will help track and resolve your multiple PC situation. 
